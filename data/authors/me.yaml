@@ -2,17 +2,20 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Rupinder Singh
+  given: Rupinder
+  family: Singh
 postnominals: []
 status:
   icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+role: Program Lead
+email: Rupinder1980@gmail.com
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  An established leader offering chronicled success of nearly 21 years in all aspects of Account Management, Operational
+Excellence, Delivery Management, Data Migration and Program Management across - Securities Financing, Cash & Liquidity
+Management, Regulatory reporting, Mortgage Banking, Investment Banking domains; proven career in conceptualizing &
+implementing effective ideas / strategies which adds value to organization through inspiring leadership, rich experience &
+innovation excellence
 
 affiliations:
   - name: Tech Corp
@@ -20,34 +23,38 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:Rupinder1980@gmail.com
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnson
+    url: https://github.com/rupindersingh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://www.linkedin.com/in/rupinderpalsingh/
+  - icon: brands/Relit
+    url: https://profile-display--rupinder1980.replit.app
 
 interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
+  - Project Management
+  - Quality Business Data Delivery
+  - Strategic Delivery Management
+  - Project Governance
 
 education:
-  - degree: B.S. Computer Science
-    institution: State University
-    start: 2015-09-01
-    end: 2019-05-31
-    summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
-    button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
-      icon: brands/github
-
+  - degree: BTECH 
+    institution: MNIT Jaipur
+    start: 2002-06-01
+    end: 2005-06-30
+   # summary: |
+    #  Focus on software engineering and distributed systems.
+     # Senior project on distributed caching systems.
+   # button:
+    #  text: View Project
+     # url: https://github.com/alexjohnson/senior-project
+      #icon: brands/github
+- degree: Diploma 
+    institution: Jaipur University
+    start: 1999-06-01
+    end: 2002-05-31
+    
 experience:
   - role: Senior Software Engineer
     org: Tech Corp
